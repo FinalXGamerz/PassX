@@ -1,0 +1,21 @@
+# ── Discord Bot ──────────────────────────────────
+discord.py>=2.3.0,<3.0.0
+
+# ── Webhook HTTP ─────────────────────────────────
+aiohttp>=3.9.0
+
+# ── Image Handling (CAPTCHA display) ─────────────
+Pillow>=10.0.0
+
+# ── Console Styling (on_ready banner) ────────────
+colorama>=0.4.6
+
+# ── Browser Automation (automation/core, acsr, etc.) ──
+selenium>=4.15.0
+
+# ── Optional: Better webdriver management ─────────
+webdriver-manager>=4.0.0
+
+requests
+beautifulsoup4
+lxml

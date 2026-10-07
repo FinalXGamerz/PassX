@@ -1,0 +1,35 @@
+{
+  "total_processed": 73,
+  "total_success": 4,
+  "total_failed": 69,
+  "users_served": {
+    "1422683677212540951": {
+      "processed": 2,
+      "success": 0
+    },
+    "1158028389962219611": {
+      "processed": 98,
+      "success": 23
+    },
+    "1128726626453168259": {
+      "processed": 24,
+      "success": 0
+    },
+    "1255168097975926966": {
+      "processed": 3,
+      "success": 0
+    },
+    "1446922584070426826": {
+      "processed": 6,
+      "success": 1
+    },
+    "1329073302248882266": {
+      "processed": 10,
+      "success": 0
+    },
+    "771258043517763585": {
+      "processed": 2,
+      "success": 0
+    }
+  }
+}
